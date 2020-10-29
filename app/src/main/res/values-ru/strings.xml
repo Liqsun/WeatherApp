@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погодное приложение</string>
+    <string name="current_temperature">Температура</string>
+    <string name="current_city">Ваш город</string>
+
+
+</resources>
